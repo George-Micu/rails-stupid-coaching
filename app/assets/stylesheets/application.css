@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+ .answer {
+  background-color: #ffffe1;
+}
